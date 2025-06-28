@@ -1,0 +1,245 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+system.log
+
+# Compiled clients
+*.app/
+client.app/
+*.dmg
+*.pkg
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuration files with sensitive data
+config.ini
+settings.json
+credentials.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+
+# Network captures
+*.pcap
+*.cap
+
+# Screenshots and captures
+screenshots/
+captures/
+
+# Downloaded files
+downloads/
+uploads/
+
+# macOS specific
+com.system.service.plist
+LaunchAgents/
+*.plist
+
+# Windows specific
+*.exe
+*.msi
+*.bat
+*.cmd
+
+# Linux specific
+*.deb
+*.rpm
+*.AppImage
+
+# Security
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+passwords.txt
+secrets.txt
+
+# Project specific
+client_build/
+server_build/
+dist/
+build/
+
+
+
+# Screenshots and captures
+screenshots/
+captures/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+system.log
+
+# Compiled clients
+*.app/
+client.app/
+*.dmg
+*.pkg
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuration files with sensitive data
+config.ini
+settings.json
+credentials.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+
+# Network captures
+*.pcap
+*.cap
+
+# Screenshots and captures
+screenshots/
+captures/
+
+# Downloaded files
+downloads/
+uploads/
+
+# macOS specific
+com.system.service.plist
+LaunchAgents/
+*.plist
+
+# Windows specific
+*.exe
+*.msi
+*.bat
+*.cmd
+
+# Linux specific
+*.deb
+*.rpm
+*.AppImage
+
+# Security
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+passwords.txt
+secrets.txt
+
+# Project specific
+client_build/
+server_build/
+dist/
+build/ 

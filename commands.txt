@@ -1,0 +1,3 @@
+pyinstaller --onefile --windowed client.py
+
+download(для шелла)
